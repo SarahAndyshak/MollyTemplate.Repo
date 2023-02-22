@@ -1,21 +1,13 @@
-# ShapeTracker 2
+# Title
 
-#### An application that identifies shapes
-
-#### By Sarah Andyshak, David Jandron, and Erin Timlin
+#### By Molly Donegan
 
 ## Technologies Used
 
 * C#
-* ESLint
-* markdown
-* git
-* bin
-* obj
-* VS Code
 
 ## Description
-A project made with guidance from Epicodus, which identifies shapes. 
+An application that...
 
 ### Setup Instructions
 
@@ -31,7 +23,7 @@ No known bugs at this time.
 ## License
 Enjoy the site! If you have questions or suggestions for fixing the code, please contact us!
 
-MIT License Copyright (c) 2023 Sarah Andyshak, David Jandron, and Erin Timlin. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+MIT License Copyright (c) 2023 Molly Donegan. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
